@@ -1,0 +1,220 @@
+{
+    "H": {
+        "mass": 1.008,
+        "vdw_radius": 1.20
+    },
+    "He": {
+        "mass": 4.003,
+        "vdw_radius": 1.40
+    },
+    "Li": {
+        "mass": 6.941,
+        "vdw_radius": 1.82
+    },
+    "Be": {
+        "mass": 9.012,
+        "vdw_radius": 1.53
+    },
+    "B": {
+        "mass": 10.81,
+        "vdw_radius": 1.92
+    },
+    "C": {
+        "mass": 12.011,
+        "vdw_radius": 1.70
+    },
+    "N": {
+        "mass": 14.007,
+        "vdw_radius": 1.55
+    },
+    "O": {
+        "mass": 15.999,
+        "vdw_radius": 1.52
+    },
+    "F": {
+        "mass": 18.998,
+        "vdw_radius": 1.47
+    },
+    "Ne": {
+        "mass": 20.180,
+        "vdw_radius": 1.54
+    },
+    "Na": {
+        "mass": 22.990,
+        "vdw_radius": 2.27
+    },
+    "Mg": {
+        "mass": 24.305,
+        "vdw_radius": 1.73
+    },
+    "Al": {
+        "mass": 26.982,
+        "vdw_radius": 1.84
+    },
+    "Si": {
+        "mass": 28.086,
+        "vdw_radius": 2.10
+    },
+    "P": {
+        "mass": 30.974,
+        "vdw_radius": 1.80
+    },
+    "S": {
+        "mass": 32.065,
+        "vdw_radius": 1.80
+    },
+    "Cl": {
+        "mass": 35.453,
+        "vdw_radius": 1.75
+    },
+    "K": {
+        "mass": 39.098,
+        "vdw_radius": 2.75
+    },
+    "Ca": {
+        "mass": 40.078,
+        "vdw_radius": 2.31
+    },
+    "Br": {
+        "mass": 79.904,
+        "vdw_radius": 1.85
+    },
+    "I": {
+        "mass": 126.904,
+        "vdw_radius": 1.98
+    },
+    "Zn": {
+        "mass": 65.38,
+        "vdw_radius": 1.39
+    },
+    "Cu": {
+        "mass": 63.546,
+        "vdw_radius": 1.40
+    },
+    "Fe": {
+        "mass": 55.845,
+        "vdw_radius": 1.56
+    },
+
+    "Sc": {
+        "mass": 44.956,
+        "vdw_radius": 2.11
+    },
+    "Ti": {
+        "mass": 47.867,
+        "vdw_radius": 2.00
+    },
+    "V": {
+        "mass": 50.942,
+        "vdw_radius": 2.00
+    },
+    "Cr": {
+        "mass": 51.996,
+        "vdw_radius": 2.00
+    },
+    "Mn": {
+        "mass": 54.938,
+        "vdw_radius": 2.00
+    },
+    "Co": {
+        "mass": 58.933,
+        "vdw_radius": 2.00
+    },
+    "Ni": {
+        "mass": 58.693,
+        "vdw_radius": 1.63
+    },
+    "Ga": {
+        "mass": 69.723,
+        "vdw_radius": 1.87
+    },
+    "Ge": {
+        "mass": 72.630,
+        "vdw_radius": 2.11
+    },
+    "As": {
+        "mass": 74.922,
+        "vdw_radius": 1.85
+    },
+    "Se": {
+        "mass": 78.971,
+        "vdw_radius": 1.90
+    },
+    "Rb": {
+        "mass": 85.468,
+        "vdw_radius": 3.03
+    },
+    "Sr": {
+        "mass": 87.62,
+        "vdw_radius": 2.49
+    },
+    "Y": {
+        "mass": 88.906,
+        "vdw_radius": 2.32
+    },
+    "Zr": {
+        "mass": 91.224,
+        "vdw_radius": 2.23
+    },
+    "Mo": {
+        "mass": 95.95,
+        "vdw_radius": 2.17
+    },
+    "Ru": {
+        "mass": 101.07,
+        "vdw_radius": 2.13
+    },
+    "Rh": {
+        "mass": 102.906,
+        "vdw_radius": 2.10
+    },
+    "Pd": {
+        "mass": 106.42,
+        "vdw_radius": 1.63
+    },
+    "Ag": {
+        "mass": 107.868,
+        "vdw_radius": 1.72
+    },
+    "Cd": {
+        "mass": 112.414,
+        "vdw_radius": 1.58
+    },
+    "In": {
+        "mass": 114.818,
+        "vdw_radius": 1.93
+    },
+    "Sn": {
+        "mass": 118.710,
+        "vdw_radius": 2.17
+    },
+    "Sb": {
+        "mass": 121.760,
+        "vdw_radius": 2.06
+    },
+    "Te": {
+        "mass": 127.60,
+        "vdw_radius": 2.06
+    },
+    "Ba": {
+        "mass": 137.327,
+        "vdw_radius": 2.68
+    },
+    "Pt": {
+        "mass": 195.084,
+        "vdw_radius": 1.75
+    },
+    "Au": {
+        "mass": 196.967,
+        "vdw_radius": 1.66
+    },
+    "Hg": {
+        "mass": 200.592,
+        "vdw_radius": 1.55
+    },
+    "Pb": {
+        "mass": 207.2,
+        "vdw_radius": 2.02
+    }
+
+}
